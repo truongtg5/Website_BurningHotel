@@ -12,7 +12,7 @@
 ## 3. Hình ảnh
 ![image](https://github.com/batruong1704/BurningHotel/assets/142201301/dfbf747a-8ef9-499b-9b3c-4fc19d5c7b81)
 ![image](https://github.com/batruong1704/BurningHotel/assets/142201301/a910c269-580f-4959-b64c-78f9a2087a26)
-![image](https://github.com/batruong1704/BurningHotel/assets/142201301/c16f545e-1750-461d-8af3-d0871c02da36)
-![image](https://github.com/batruong1704/BurningHotel/assets/142201301/1ff17419-6543-4a67-a64b-3e7c7e579eb8)
-![image](https://github.com/batruong1704/BurningHotel/assets/142201301/0c4dd401-d49c-4fdd-9412-304515e41bb0)
+![image](https://github.com/truongtg5/Website_BurningHotel/assets/89430973/f5d80624-8ed4-495c-8ae4-d6c8a18192d2)
+![image](https://github.com/truongtg5/Website_BurningHotel/assets/89430973/553280c9-cf58-4857-a5ff-c87a75c6d196)
+
 
